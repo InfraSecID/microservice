@@ -1,3 +1,16 @@
+## Badges
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/hidayat30/api?style=for-the-badge)](https://hub.docker.com/r/hidayat30/api)
+[![Docker Image Size](https://img.shields.io/docker/image-size/hidayat30/api/latest?style=for-the-badge)](https://hub.docker.com/r/hidayat30/api)
+[![Docker Pulls](https://img.shields.io/docker/pulls/hidayat30/frontend?style=for-the-badge)](https://hub.docker.com/r/hidayat30/frontend)
+[![Docker Image Size](https://img.shields.io/docker/image-size/hidayat30/frontend/latest?style=for-the-badge)](https://hub.docker.com/r/hidayat30/frontend)
+
 # microservice
 3-tier microservices demo on Kubernetes (React + Node.js + PostgreSQL) with Ingress, HPA, and zero-downtime rolling updates.
 

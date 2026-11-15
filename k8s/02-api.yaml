@@ -51,7 +51,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: YOUR_DOCKERHUB/api:1.0
+          image: hidayat30/api:1.0
           ports:
             - containerPort: 3000
           envFrom:

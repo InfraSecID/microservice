@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: YOUR_DOCKERHUB/frontend:1.0
+          image: hidayat30/frontend:1.0
           ports:
             - containerPort: 80
           readinessProbe:
